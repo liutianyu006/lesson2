@@ -14,7 +14,7 @@ public class StringTest1 {
         System.out.println(p3.name == p2.name); //true
         System.out.println(p4.name == p2.name); //false
     }
-    //
+    //ceshi
 }
 class Person1{
     String name;
